@@ -1,0 +1,13 @@
+/**index.wxss**/
+.loadmore {
+    background-color: #584846,
+}
+.imgbox{
+    margin-bottom: 3rem
+}
+
+.loadmore {
+    margin-top: 1rem
+}
+
+ 

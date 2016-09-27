@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="container" >
+<view >
+  <block>
+    <view class="imgbox" wx:for="{{paths}}" wx:for-index="idx" wx:for-item="path" >
+      <image  src="{{path}}"></image>
+    
+    </view>
+  </block>
+   <button bindtap="bindtap"  class="loadmore">load more</button>
+   </view>
+</view>
+ 
